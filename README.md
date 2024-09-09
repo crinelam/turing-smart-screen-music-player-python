@@ -16,7 +16,7 @@ After that copy the files from this proyect into the turing smart screen python 
 You will need to generate the file yourself for use with other music players, the expected input is "artist name;track name;album name;path to image or file". Currently for the album image it supports getting it from an embed mp3 or flac or pointing it to a image file.
 
 
-<img src="res/musicplayer/screencap1.png" width="60%" height="60%"> <img src="res/musicplayer/screencap2.png" width="60%" height="60%">
+<img src="res/musicplayer/screencap1.png" width="45%" height="45%" /> <img src="res/musicplayer/screencap2.png" width="45%" height="45%" />
 
 ### Know limitations
 I only tested it on a 3.5 display as i don't have any other one currently, if i can get my hands on a bigger one in the future i'll test it there and probably modify it so it adapts to the bigger display.

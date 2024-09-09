@@ -1,0 +1,9 @@
+config:
+    # What file to extract the track info from, it expects the following fields
+    # separated by ';' : Artist name, Track name, Album name, path to image or file
+    # 
+    # It currently supports extracting album image from mp3 and flac
+    INFO_FILE: /path/to/file/nowPlaying.txt
+
+    # How many characters to wrap the text to
+    TEXT_WRAP: 28

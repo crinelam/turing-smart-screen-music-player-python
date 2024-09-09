@@ -22,3 +22,6 @@ You will need to generate the file yourself for use with other music players, th
 I only tested it on a 3.5 display as i don't have any other one currently, if i can get my hands on a bigger one in the future i'll test it there and probably modify it so it adapts to the bigger display.
 
 Currently it has to refresh the entire page when changing a song and it can't show some special characters (not sure where this last limitation comes from, i have to tinker with it more)
+
+# Planed Features
+Adding support for portrait mode
